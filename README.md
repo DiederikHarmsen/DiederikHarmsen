@@ -1,6 +1,6 @@
 ## Hello
 
-For checking my Python proficiency I would recommend repositories:
+For checking my Python proficiency I would recommend repositories: <br>
 [Analyzing dataset for pedestrian detection](https://github.com/DiederikHarmsen/Pedestrian-image-analysis-and-sampling)
 
 For checking my SQL proficiency I would recommend repositories:
