@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hello
+
+For checking my Python proficiency I would recommend repositories:
+
+
+For checking my SQL proficiency I would recommend repositories:
+
+
+For checking my proficiency with Machine Learning in Python check:
+
+
+
 
 <!--
 **DiederikHarmsen/DiederikHarmsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
