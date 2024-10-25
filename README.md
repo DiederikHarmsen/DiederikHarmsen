@@ -4,7 +4,7 @@ For checking my Python proficiency I would recommend repositories: <br>
 [Analyzing dataset for pedestrian detection](https://github.com/DiederikHarmsen/Pedestrian-image-analysis-and-sampling)
 
 For checking my SQL proficiency I would recommend repositories:
-
+[Basic setup of a database in Python and SQL](https://github.com/DiederikHarmsen/databasteknik)
 
 For checking my proficiency with Machine Learning in Python check:
 
