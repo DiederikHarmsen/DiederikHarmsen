@@ -6,6 +6,9 @@ For checking my Python proficiency I would recommend repositories: <br>
 For checking my SQL proficiency I would recommend repositories: <br>
 [Basic setup of a database in Python and SQL](https://github.com/DiederikHarmsen/databasteknik)
 
+[And the notes from the recent course I took to refresh my skills](https://github.com/DiederikHarmsen/Notes-learning-programming/tree/main/SQL)
+
+
 For checking my proficiency with Machine Learning in Python check:
 
 [A simple Bank Account project](https://github.com/DiederikHarmsen/Python-Portfolio/tree/master/Bank%20account%20project)
