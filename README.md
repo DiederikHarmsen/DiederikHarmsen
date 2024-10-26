@@ -1,5 +1,8 @@
 ## Hello
 
+Former student at Lunds Tekniska Högskola. Academic experience in creating databases, software development and testing as well as project management and requirements engineering. 
+Below I have collected some projects that demonstrates my knowledge. 
+
 For checking my Python proficiency I would recommend repositories: <br>
 [Analyzing dataset for pedestrian detection](https://github.com/DiederikHarmsen/Pedestrian-image-analysis-and-sampling)
 
